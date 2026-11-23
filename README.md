@@ -48,10 +48,10 @@ The repository is organised as follows:
 - `Loan_Portfolio_Performance_Credit_Risk_Analysis_Report.pdf` – Final project report.
 - `.gitignore` – Git configuration file.
 - `charts/` – Folder containing the project visualisations.
-  - `loan_values.png`
-  - `loan_status.png`
-  - `monthly_summary_rates.png`
-
+  - `01_Loan_Portfolio_Overview_Performance.png`
+  - `02_Credit_Risk_Portfolio_Quality.png`
+  - `03_Customer_Behavior_Creditworthiness.png`
+  - `04_Portfolio_Performance_Recovery.png`
 
 ---
 
