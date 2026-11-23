@@ -8,6 +8,51 @@
 
 This project analyses a loan portfolio using customer, loan, repayment and monthly summary data. I used SQL to prepare and validate the data, Excel as the source workbook, and Power BI to structure the analysis into portfolio performance, credit risk, customer behaviour and recovery views.
 
+
+## 📌 Project Navigation
+
+Use the links below to explore the different components of this project.
+
+| Section | Description |
+|---|---|
+| [📊 Project Report](Loan_Portfolio_Performance_Credit_Risk_Analysis_Report.pdf) | Read the complete project report, findings and recommendations. |
+| [💻 SQL Script](loan_portfolio_project.sql) | Explore the SQL queries used for data extraction, transformation and analysis. |
+| [📁 Excel Workbook](loan_portfolio_project.xlsx) | Access the dataset and supporting analysis. |
+| [📈 Charts & Visualisations](charts/) | Explore the original charts generated during the analysis. |
+
+---
+
+## 📈 Data Visualisations
+
+### 1. Loan Values Analysis
+![Loan Values Analysis](charts/loan_values.png)
+
+### 2. Loan Status Distribution
+![Loan Status Distribution](charts/loan_status.png)
+
+### 3. Monthly Summary Rates
+![Monthly Summary Rates](charts/monthly_summary_rates.png)
+
+---
+
+## 📂 Repository Structure
+
+```text
+loan-portfolio-credit-risk-analysis/
+│
+├── README.md
+├── loan_portfolio_project.sql
+├── loan_portfolio_project.xlsx
+├── Loan_Portfolio_Performance_Credit_Risk_Analysis_Report.pdf
+├── .gitignore
+│
+└── charts/
+    ├── loan_values.png
+    ├── loan_status.png
+    └── monthly_summary_rates.png
+
+
+
 ## Dataset contents
 
 The supplied workbook contains five worksheets:
