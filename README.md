@@ -49,7 +49,7 @@ loan-portfolio-credit-risk-analysis/
 └── charts/
     ├── loan_values.png
     ├── loan_status.png
-    └── monthly_summary_rates.png
+    └── monthly_summary_rates.png.
 
 
 
