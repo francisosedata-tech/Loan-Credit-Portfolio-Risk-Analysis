@@ -37,21 +37,20 @@ Use the links below to explore the different components of this project.
 
 ## 📂 Repository Structure
 
-```text
-loan-portfolio-credit-risk-analysis/
-│
-├── README.md
-├── loan_portfolio_project.sql
-├── loan_portfolio_project.xlsx
-├── Loan_Portfolio_Performance_Credit_Risk_Analysis_Report.pdf
-├── .gitignore
-│
-└── charts/
-    ├── loan_values.png
-    ├── loan_status.png
-    └── monthly_summary_rates.png.
+The repository is organised as follows:
+
+- `README.md` – Project overview and documentation.
+- `loan_portfolio_project.sql` – SQL queries used for the analysis.
+- `loan_portfolio_project.xlsx` – Excel workbook and supporting data.
+- `Loan_Portfolio_Performance_Credit_Risk_Analysis_Report.pdf` – Final project report.
+- `.gitignore` – Git configuration file.
+- `charts/` – Folder containing the project visualisations.
+  - `loan_values.png`
+  - `loan_status.png`
+  - `monthly_summary_rates.png`
 
 
+---
 
 ## Dataset contents
 
