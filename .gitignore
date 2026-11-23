@@ -1,0 +1,11 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.bak
+~$*.xlsx
+
+# Power BI local cache / backup files
+*.pbix.autorecover
