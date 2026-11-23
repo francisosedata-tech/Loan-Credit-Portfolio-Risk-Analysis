@@ -18,7 +18,7 @@ Use the links below to explore the different components of this project.
 | [📊 Project Report](Loan_Portfolio_Performance_Credit_Risk_Analysis_Report.pdf) | Read the complete project report, findings and recommendations. |
 | [💻 SQL Script](loan_portfolio_project.sql) | Explore the SQL queries used for data extraction, transformation and analysis. |
 | [📁 Excel Workbook](loan_portfolio_project.xlsx) | Access the dataset and supporting analysis. |
-| [📈 Charts & Visualisations](charts/) | Explore the original charts generated during the analysis. |
+| [📈 Charts & Visualisations](#-data-visualisations)) | Explore the original charts generated during the analysis. |
 
 ---
 
