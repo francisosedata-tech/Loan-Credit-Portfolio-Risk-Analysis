@@ -30,8 +30,8 @@ Use the links below to explore the different components of this project.
 ### 2. Credit Risk & Portfolio Quality 
 ![Credit Risk& Portfolio Quality](https://github.com/francisosedata-tech/Loan-Credit-Portfolio-Risk-Analysis/blob/20022a4ccde6532f92312c458d6c7f75671dedfc/02_Credit_Risk_Portfolio_Quality.png)
 
-### 3. Monthly Summary Rates
-![Monthly Summary Rates](charts/monthly_summary_rates.png)
+### 3. Customer Behavior & Creditworthiness 
+![Customer Behavior & Creditworthiness](https://github.com/francisosedata-tech/Loan-Credit-Portfolio-Risk-Analysis/blob/b508394187801c2a36ddd7a7f51f955bc2eab94b/03_Customer_Behavior_Creditworthiness.png)
 
 ---
 
