@@ -33,6 +33,7 @@ Use the links below to explore the different components of this project.
 ### 3. Customer Behavior & Creditworthiness 
 ![Customer Behavior & Creditworthiness](https://github.com/francisosedata-tech/Loan-Credit-Portfolio-Risk-Analysis/blob/b508394187801c2a36ddd7a7f51f955bc2eab94b/03_Customer_Behavior_Creditworthiness.png)
 
+### 4. 
 ---
 
 ## 📂 Repository Structure
