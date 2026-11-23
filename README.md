@@ -25,7 +25,7 @@ Use the links below to explore the different components of this project.
 ## 📈 Data Visualisations
 
 ### 1. Loan Values Analysis
-![Loan Values Analysis](charts/loan_values.png)
+![Loan Overview](https://github.com/francisosedata-tech/Loan-Credit-Portfolio-Risk-Analysis/blob/75efa713ef38271949d5161151e1dde680e4ac91/01_Loan_Portfolio_Overview_Performance.png)
 
 ### 2. Loan Status Distribution
 ![Loan Status Distribution](charts/loan_status.png)
