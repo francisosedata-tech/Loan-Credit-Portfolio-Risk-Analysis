@@ -24,11 +24,11 @@ Use the links below to explore the different components of this project.
 
 ## 📈 Data Visualisations
 
-### 1. Loan Values Analysis
+### 1. Loan Overview 
 ![Loan Overview](https://github.com/francisosedata-tech/Loan-Credit-Portfolio-Risk-Analysis/blob/75efa713ef38271949d5161151e1dde680e4ac91/01_Loan_Portfolio_Overview_Performance.png)
 
-### 2. Loan Status Distribution
-![Loan Status Distribution](charts/loan_status.png)
+### 2. Credit Risk & Portfolio Quality 
+![Credit Risk& Portfolio Quality](https://github.com/francisosedata-tech/Loan-Credit-Portfolio-Risk-Analysis/blob/20022a4ccde6532f92312c458d6c7f75671dedfc/02_Credit_Risk_Portfolio_Quality.png)
 
 ### 3. Monthly Summary Rates
 ![Monthly Summary Rates](charts/monthly_summary_rates.png)
